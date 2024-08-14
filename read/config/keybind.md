@@ -23,6 +23,10 @@ parent: 設定
 
 ## 設定檔
 
+| 設定檔 |
+| ----- |
+| [~/.config/river/init](https://github.com/samwhelp/ultramarine-river-adjustment/blob/main/prototype/main/river-config/Main/asset/overlay/etc/skel/.config/river/init) |
+
 
 
 
